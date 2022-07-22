@@ -4,7 +4,14 @@ Circuit Boards and Schematics for CPU, Graphics Card, I/O cards, Motherboard, et
 
 ## CPU
 
-.
+### ALU
+### Control Logic
+
+## Graphics Card
+
+### GPU
+### VRAM
+### VGA Interface
 
 #
 Circuit Boards and Schematics designed in EasyEDA
