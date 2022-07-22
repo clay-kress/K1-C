@@ -3,7 +3,7 @@ TTL Computing project.
 
 Circuit Boards and Schematics for CPU, Graphics Card, I/O cards, Motherboard, etc.
 
-### CPU
+## CPU
 
 .
 
