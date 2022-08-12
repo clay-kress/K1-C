@@ -2,6 +2,8 @@
 
 Circuit Boards and Schematics for CPU, Graphics Card, I/O cards, Motherboard, etc.
 
+Just an empty folder structure at this point
+
 ## CPU
 
 ### ALU
